@@ -1,0 +1,18 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource>
+		<file>icons/calendar.png</file>
+		<file>icons/books.png</file>
+		<file>icons/setting.png</file>
+		<file>icons/themes.png</file>
+		<file>icons/user.png</file>
+		<file>icons/flat.png</file>
+            <file>icons/fine.png</file>
+            <file>icons/category.png</file>
+            <file>icons/confirm.png</file>
+            <file>icons/delete.png</file>
+            <file>icons/loan.png</file>
+            <file>icons/return.png</file>
+			<file>icons/choose.png</file>
+	</qresource>
+</RCC>
